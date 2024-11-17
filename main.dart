@@ -39,7 +39,6 @@ void main() {
   int sum = newkiny + newmath + newEng;
 
   double average = (sum / 3);
-  String h = "oka";
 
-  print("Agerage is " + h);
+  print("Agerage is $average");
 }
